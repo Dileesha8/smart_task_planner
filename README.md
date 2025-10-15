@@ -1,10 +1,12 @@
-#  Smart Task Planner
+# Smart Task Planner
 
 **Smart Task Planner** is an AI-powered productivity assistant that helps you break down big goals into actionable, time-bound tasks.  
-You simply enter your goal (e.g., “Launch a product in 2 weeks”), and the planner generates a structured task plan with dependencies and deadlines.
+You simply enter your goal (e.g., "Launch a product in 2 weeks"), and the planner generates a structured task plan with dependencies and deadlines.
 
 ---
-## **Features**
+
+## Features
+
 - AI-generated task breakdowns  
 - Dynamic timeline estimation  
 - Phase-wise dependency management  
@@ -15,22 +17,32 @@ You simply enter your goal (e.g., “Launch a product in 2 weeks”), and the pl
 
 ---
 
-## **Tech Stack**
+## Tech Stack
+
 - **AI/LLM:** Ollama with Mistral 7B  
 - **Backend API:** FastAPI (Python 3.10+)  
 - **Frontend:** React + Vite + TailwindCSS  
 - **Version Control:** Git + GitHub  
 - **CORS + JSON Validation:** FastAPI Middleware + Pydantic  
----
-# Installation
- **1️.Prerequisites**<br>
-    Install Python 3.10+<br>
-    Install Node.js (LTS version)<br>
-       Verify installation: node -v , npm -v<br>
-    Install Ollama<br>
-      Ollama runs the Mistral 7B AI model locally (no API key needed).<br>
 
-  **2.Download and Setup the Project**<br>
+---
+
+## Installation
+
+### 1: Prerequisites
+
+Before getting started, ensure you have the following installed:
+
+- **Python 3.10+**  
+  Download from [python.org](https://www.python.org/downloads/)
+  
+- **Node.js (LTS version)**  
+  Download from [nodejs.org](https://nodejs.org/)  
+  Verify installation:node -v , npm -v <br>
+  Install Ollama<br>
+  Ollama runs the Mistral 7B AI model locally (no API key needed).<br>
+
+  ### 2.Download and Setup the Project <br>
  --> Clone the Repository:<br>
       git clone https://github.com/dileesha8/smart-task-planner.git<br>
       cd smart-task-planner<br>
