@@ -4,7 +4,7 @@
 You simply enter your goal (e.g., “Launch a product in 2 weeks”), and the planner generates a structured task plan with dependencies and deadlines.
 
 ---
-## Features
+# Features
 
  AI-generated task breakdowns<BR>
  Dynamic timeline estimation<br>
