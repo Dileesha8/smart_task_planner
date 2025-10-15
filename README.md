@@ -92,6 +92,10 @@ Mistral warm-up complete.<br>
 
 <img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/28f47d92-3c8c-4a3d-a45e-b8fc76e48183" />
 <img width="1312" height="953" alt="image (1)" src="https://github.com/user-attachments/assets/b357db99-9af0-466b-ace2-06f48c8cf160" />
+<img width="1249" height="773" alt="image (2)" src="https://github.com/user-attachments/assets/a7df1d33-cdcb-4bb6-b0ac-aa0c68dc2bec" />
+<img width="1040" height="902" alt="image (5)" src="https://github.com/user-attachments/assets/7b88380d-4afe-41aa-b6ae-7f77339d7c3f" />
+
+<img width="1285" height="1003" alt="image (6)" src="https://github.com/user-attachments/assets/62d122ce-df9e-464e-952f-d57d5df4b0b8" />
 
 
 
