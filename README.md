@@ -4,24 +4,23 @@
 You simply enter your goal (e.g., “Launch a product in 2 weeks”), and the planner generates a structured task plan with dependencies and deadlines.
 
 ---
-# Features
+## **Features**
+- AI-generated task breakdowns  
+- Dynamic timeline estimation  
+- Phase-wise dependency management  
+- Risk and recommendation analysis  
+- Beautiful TailwindCSS UI  
+- Full offline LLM processing using Ollama (Mistral 7B)  
+- Separate frontend (React + Vite) and backend (FastAPI) architecture  
 
-<small> AI-generated task breakdowns</small><BR>
-<small> Dynamic timeline estimation</small><br>
- <small>Phase-wise dependency management</small><br>
- <small>Risk and recommendation analysis</small><br>
-<smart> Beautiful TailwindCSS UI</small><br>
-<smart> Full offline LLM processing using Ollama (Mistral 7B)</smart><br>
- <smart>Separate frontend (React + Vite) and backend (FastAPI) architecture</smart><br>
 ---
 
-# Tech Stack
-
- AI/LLM	-Ollama with Mistral 7B<br>
- Backend API	-FastAPI (Python 3.10+)<br>
- Frontend	-React + Vite + TailwindCSS<br>
- Version Control-	Git + GitHub<br>
- CORS + JSON Validation-	FastAPI Middleware + Pydantic<br>
+## **Tech Stack**
+- **AI/LLM:** Ollama with Mistral 7B  
+- **Backend API:** FastAPI (Python 3.10+)  
+- **Frontend:** React + Vite + TailwindCSS  
+- **Version Control:** Git + GitHub  
+- **CORS + JSON Validation:** FastAPI Middleware + Pydantic  
 ---
 # Installation
  **1️.Prerequisites**<br>
