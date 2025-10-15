@@ -6,11 +6,11 @@ You simply enter your goal (e.g., “Launch a product in 2 weeks”), and the pl
 ---
 # Features
 
-<smart> AI-generated task breakdowns</smart><BR>
-<smart> Dynamic timeline estimation</smart><br>
- <smart>Phase-wise dependency management</smart><br>
- <smart>Risk and recommendation analysis</smart><br>
-<smart> Beautiful TailwindCSS UI</smart><br>
+<small> AI-generated task breakdowns</small><BR>
+<small> Dynamic timeline estimation</small><br>
+ <small>Phase-wise dependency management</small><br>
+ <small>Risk and recommendation analysis</small><br>
+<smart> Beautiful TailwindCSS UI</small><br>
 <smart> Full offline LLM processing using Ollama (Mistral 7B)</smart><br>
  <smart>Separate frontend (React + Vite) and backend (FastAPI) architecture</smart><br>
 ---
