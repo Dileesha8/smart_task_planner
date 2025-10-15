@@ -29,7 +29,7 @@ You simply enter your goal (e.g., "Launch a product in 2 weeks"), and the planne
 
 ## Installation
 
-### 1: Prerequisites
+### 1. Prerequisites
 
 Before getting started, ensure you have the following installed:
 
