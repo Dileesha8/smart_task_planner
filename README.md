@@ -6,13 +6,13 @@ You simply enter your goal (e.g., “Launch a product in 2 weeks”), and the pl
 ---
 ## Features
 
- AI-generated task breakdowns
- Dynamic timeline estimation
- Phase-wise dependency management
- Risk and recommendation analysis
- Beautiful TailwindCSS UI
- Full offline LLM processing using Ollama (Mistral 7B)
- Separate frontend (React + Vite) and backend (FastAPI) architecture
+ AI-generated task breakdowns<BR>
+ Dynamic timeline estimation<br>
+ Phase-wise dependency management<br>
+ Risk and recommendation analysis<br>
+ Beautiful TailwindCSS UI<br>
+ Full offline LLM processing using Ollama (Mistral 7B)<br>
+ Separate frontend (React + Vite) and backend (FastAPI) architecture<br>
 ---
 
 ## Tech Stack
