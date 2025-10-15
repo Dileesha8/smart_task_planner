@@ -89,6 +89,9 @@ Mistral warm-up complete.<br>
    
 ### 9.Open your browser and visit:<br>
    - http://localhost:5173<br>
+   
+# I have done in Assignment in My Friends HP GPU Laptop ( Smaranika Dutta)  Since My configuration is not sufficient to Work on Olama Mistral
+
 # Output Screenshots 
 <img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/28f47d92-3c8c-4a3d-a45e-b8fc76e48183" />
 <img width="1312" height="953" alt="image (1)" src="https://github.com/user-attachments/assets/b357db99-9af0-466b-ace2-06f48c8cf160" />
